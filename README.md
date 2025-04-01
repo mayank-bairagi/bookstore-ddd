@@ -226,7 +226,8 @@ src/main/kotlin/com/marketplace/
 ---
 
 ## Layered Architecture in Domain-Driven Design
-![DDD Layered Architecture](src/main/resources/ddd-flow.png)
+<img src="src/main/resources/ddd-flow.png" alt="DDD Layered Architecture" width="500"/>
+
 
 ## 🧵 Conclusion: Putting It All Together
 
