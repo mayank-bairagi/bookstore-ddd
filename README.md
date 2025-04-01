@@ -225,6 +225,9 @@ src/main/kotlin/com/marketplace/
 
 ---
 
+## Layered Architecture in Domain-Driven Design
+![DDD Layered Architecture](src/main/resources/ddd-flow.png)
+
 ## 🧵 Conclusion: Putting It All Together
 
 DDD isn’t about flashy tools—it’s about making your code work for the business, not the other way around. This little bookstore experiment shows how to split domain logic from tech noise, bundle behavior where it belongs, and let services and infrastructure play nice. Try it on your next project—your future self will thank you.
