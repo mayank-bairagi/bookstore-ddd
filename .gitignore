@@ -1,0 +1,43 @@
+# IntelliJ project files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Gradle files
+.gradle/
+build/
+out/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Kotlin build artifacts
+**/build/
+**/out/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Kotlin/Java cache
+*.class
+
+# Temporary files
+*.swp
+*.tmp
+*.bak
+*.orig
+
+# Generated files
+generated/
+
+# Test reports
+test-results/
+test-output/
+
+# Local environment files
+.env
+*.local
+

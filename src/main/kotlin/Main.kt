@@ -1,0 +1,1 @@
+fun main() { println("Marketplace DDD project setup complete!") }
